@@ -1,2 +1,2 @@
 # javascript-mocha-chai
-Projeto Mentoria Julio de Lima
+Projeto Mentoria Julio de Lima onde foi desenvolvido um programa em linguagem em javascript utilizando bibliotecas "mocha" e "chai", escrevi uma função/método que recebe por parâmetro o nome, idade e e-mail de algumas pessoas em uma lista. navegando nessa lista apresentar no console a classificação dos menores de 12 anos como "crianças", os que tem entre 12 e 17 como "adolescentes" e os que são maiores que 17 como adultos. Retornando o número de pessoas contidas na lista com seus dados.
